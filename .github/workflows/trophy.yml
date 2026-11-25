@@ -9,6 +9,8 @@ on:
 
 permissions:
   contents: write
+  issues: read
+  pull-requests: read
 
 jobs:
   trofeos:
@@ -16,6 +18,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: ryo-ma/github-profile-trophy@v1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: onedark
