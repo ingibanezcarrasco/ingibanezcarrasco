@@ -11,8 +11,14 @@ que se genero.
 
 ## 🏆 Logros
 
-<!-- TROPHY_START -->
-<!-- TROPHY_END -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ingibanezcarrasco&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos de GitHub de ingibanezcarrasco" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ingibanezcarrasco&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-1" alt="Trofeos: rango alcanzado" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ingibanezcarrasco&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&rank=0" alt="Trofeos: primer puesto" />
+</div>
 
 ## 🛠️ Herramientas
 
@@ -39,7 +45,6 @@ que se genero.
 - GitHub: [@ingibanezcarrasco](https://github.com/ingibanezcarrasco)
 
 <!--
-El README de perfil se actualiza solo:
-- `.github/workflows/trophy.yml` regenera los trofeos en cada push a main.
-- Las tarjetas de estadisticas se incrustan desde github-readme-stats.
+Los trofeos y las tarjetas se sirven desde sus APIs públicas y se actualizan
+solos en cada carga de la pagina del perfil.
 -->
