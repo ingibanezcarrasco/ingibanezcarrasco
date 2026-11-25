@@ -1,0 +1,25 @@
+name: Trofeos de GitHub
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  trofeos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ryoma-ma/github-profile-trophy@v1
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: onedark
+          COLUMN: 7
+          NO_FRAME: true
+          NO_BG: true
+          MARGIN_W: 4
