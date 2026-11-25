@@ -11,14 +11,8 @@ que se genero.
 
 ## 🏆 Logros
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ingibanezcarrasco&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ingibanezcarrasco&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-1" alt="Trofeos: rango" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ingibanezcarrasco&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7&rank=0" alt="Trofeos: primer puesto" />
-</div>
+<!-- TROPHY_START -->
+<!-- TROPHY_END -->
 
 ## 🛠️ Herramientas
 
