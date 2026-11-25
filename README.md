@@ -29,7 +29,7 @@ normativa, el criterio de cierre y en seis idiomas.
 
 | Proyecto | Qué hace |
 |---|---|
-| [mcp-calidad](https://github.com/ingibanezcarrasco/mcp-calidad) | **Servidor MCP para agentes de IA**: reglas ISO 9001 / IATF 16949, Cp/Cpk/PPM, prioridad de acción AIAG & VDA, 8D, plan de control y checklist de auditoría interna. En español, inglés, alemán, italiano, chino y japonés. |
+| [mcp-calidad](https://github.com/ingibanezcarrasco/mcp-calidad) | **Servidor MCP para agentes de IA**: reglas ISO 9001 / IATF 16949, Cp/Cpk/PPM, prioridad de acción AIAG & VDA, 8D, plan de control y checklist de auditoría interna. En español, inglés, alemán, italiano, chino y japonés. Incluye skill para Claude y paquetes de contenido por sector. |
 | [PDCAhub](https://www.pdcahub.com) | Suite de herramientas de calidad: RCA, Lessons Learned, scorecards de proveedor y auditorias internas. |
 
 ## 📊 Actividad
