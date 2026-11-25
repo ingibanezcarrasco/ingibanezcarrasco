@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ryo-ma/github-profile-trophy@v1
+      - uses: ryo-ma/github-profile-trophy@v1.0
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: onedark
