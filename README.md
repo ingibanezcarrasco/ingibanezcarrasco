@@ -9,6 +9,11 @@ Me gusta el trabajo de campo tanto como el codigo: lo que sale de la linea de
 produccion tiene que llegar al expediente de auditoria con la misma informacion
 que se genero.
 
+Ultimamente me interesa un poke: **que los agentes de IALM stunting entiendan la
+norma**. Los modelos escriben bien, pero no saben que exige una clausula ni una
+tabla de prioridad de accion; `mcp-calidad` se los da, con la referencia y el
+criterio de cierre.
+
 ## 🏆 Logros
 
 <div align="center">
@@ -24,7 +29,7 @@ que se genero.
 
 | Proyecto | Qué hace |
 |---|---|
-| [revision-movimientos](https://github.com/ingibanezcarrasco/revision-movimientos) | Auditoría de movimientos de material con reglas ISO 9001 / IATF 16949: motor de reglas, API, informe imprimible y juego de datos sintético. |
+| [mcp-calidad](https://github.com/ingibanezcarrasco/mcp-calidad) | **Servidor MCP para agentes de IA**: reglas ISO 9001 / IATF 16949, Cp/Cpk/PPM, prioridad de acción AIAG & VDA, 8D, plan de control y checklist de auditoría interna. Claude (o cualquier agente) deja de improvisar la norma. |
 | [PDCAhub](https://www.pdcahub.com) | Suite de herramientas de calidad: RCA, Lessons Learned, scorecards de proveedor y auditorias internas. |
 
 ## 📊 Actividad
