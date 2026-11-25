@@ -9,10 +9,10 @@ Me gusta el trabajo de campo tanto como el codigo: lo que sale de la linea de
 produccion tiene que llegar al expediente de auditoria con la misma informacion
 que se genero.
 
-Ultimamente me interesa un poke: **que los agentes de IALM stunting entiendan la
-norma**. Los modelos escriben bien, pero no saben que exige una clausula ni una
-tabla de prioridad de accion; `mcp-calidad` se los da, con la referencia y el
-criterio de cierre.
+Últimamente me interesa una cosa: **que los agentes de IA entiendan la norma**.
+Los modelos escriben bien, pero no saben qué exige una cláusula ni cómo se
+llena una tabla de prioridad de acción; `mcp-calidad` se lo da, con la referencia
+normativa, el criterio de cierre y en seis idiomas.
 
 ## 🏆 Logros
 
@@ -29,7 +29,7 @@ criterio de cierre.
 
 | Proyecto | Qué hace |
 |---|---|
-| [mcp-calidad](https://github.com/ingibanezcarrasco/mcp-calidad) | **Servidor MCP para agentes de IA**: reglas ISO 9001 / IATF 16949, Cp/Cpk/PPM, prioridad de acción AIAG & VDA, 8D, plan de control y checklist de auditoría interna. Claude (o cualquier agente) deja de improvisar la norma. |
+| [mcp-calidad](https://github.com/ingibanezcarrasco/mcp-calidad) | **Servidor MCP para agentes de IA**: reglas ISO 9001 / IATF 16949, Cp/Cpk/PPM, prioridad de acción AIAG & VDA, 8D, plan de control y checklist de auditoría interna. En español, inglés, alemán, italiano, chino y japonés. |
 | [PDCAhub](https://www.pdcahub.com) | Suite de herramientas de calidad: RCA, Lessons Learned, scorecards de proveedor y auditorias internas. |
 
 ## 📊 Actividad
